@@ -1,0 +1,16 @@
+# Ignore all node_modules
+node_modules/
+
+# Ignore environment config files
+.env
+.env.local
+
+# Ignore build output
+dist/
+build/
+
+# macOS/system-specific
+.DS_Store
+
+# Logs
+npm-debug.log*
