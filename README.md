@@ -12,7 +12,7 @@ This project is a full-stack **Event Booking System** developed to fulfill the r
 [https://areebtask.netlify.app/](https://areebtask.netlify.app/)
 
 **Backend (API):**  
-[areebbackend-production.up.railway.app](areebbackend-production.up.railway.app)
+[https://areebbackend-production.up.railway.app](https://areebbackend-production-ea3c.up.railway.app/)
 
 ---
 
